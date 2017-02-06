@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "handy";
-  src:url("../fonts/handy.eot");
-  src:url("../fonts/handy.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/handy.woff") format("woff"),
-    url("../fonts/handy.ttf") format("truetype"),
-    url("../fonts/handy.svg#handy") format("svg");
+  src:url("fonts/handy.eot");
+  src:url("fonts/handy.eot?#iefix") format("embedded-opentype"),
+    url("fonts/handy.woff") format("woff"),
+    url("fonts/handy.ttf") format("truetype"),
+    url("fonts/handy.svg#handy") format("svg");
   font-weight: normal;
   font-style: normal;
 
@@ -230,16 +230,16 @@
 .icon-handy-icon-wow:before {
   content: "\22";
 }
-.icon-handyicon-wow:before {
+.icon-handy-icon-wow-1:before {
   content: "\61";
 }
-.icon-handyicon-passionate:before {
+.icon-handy-icon-passionate:before {
   content: "\72";
 }
-.icon-handyicon-innovative:before {
+.icon-handy-icon-innovative:before {
   content: "\73";
 }
-.icon-handyicon-ambitious:before {
+.icon-handy-icon-ambitious:before {
   content: "\45";
 }
 .icon-handy-icon-arrow-left-long:before {
