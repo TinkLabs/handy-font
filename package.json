@@ -1,0 +1,22 @@
+{
+  "name": "handy-font",
+  "version": "1.0.0",
+  "description": "",
+  "style": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinkLabs/handy-font.git"
+  },
+  "keywords": [
+    "handy"
+  ],
+  "author": "Tink Labs",
+  "license": "(OFL-1.1 AND MIT)",
+  "bugs": {
+    "url": "https://github.com/TinkLabs/handy-font/issues"
+  },
+  "homepage": "https://github.com/TinkLabs/handy-font#readme"
+}
