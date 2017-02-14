@@ -39,230 +39,245 @@
 }
 
 .icon-handy-icon-alert:before {
-  content: "\21";
-}
-.icon-handy-icon-barchart:before {
-  content: "\62";
-}
-.icon-handy-icon-battery:before {
-  content: "\63";
-}
-.icon-handy-icon-bed:before {
-  content: "\64";
-}
-.icon-handy-icon-bell:before {
-  content: "\65";
-}
-.icon-handy-icon-cart:before {
-  content: "\66";
-}
-.icon-handy-icon-cityguide:before {
-  content: "\67";
-}
-.icon-handy-icon-cloud:before {
-  content: "\68";
-}
-.icon-handy-icon-dinning:before {
-  content: "\69";
-}
-.icon-handy-icon-form:before {
-  content: "\6a";
-}
-.icon-handy-icon-globe:before {
-  content: "\6b";
-}
-.icon-handy-icon-graph:before {
-  content: "\6c";
-}
-.icon-handy-icon-heart:before {
-  content: "\6d";
-}
-.icon-handy-icon-idea:before {
-  content: "\6e";
-}
-.icon-handy-icon-indicator:before {
-  content: "\6f";
-}
-.icon-handy-icon-info:before {
-  content: "\70";
-}
-.icon-handy-icon-infrared:before {
-  content: "\71";
-}
-.icon-handy-icon-left-arrow:before {
-  content: "\3c";
-}
-.icon-handy-icon-left-bracket:before {
-  content: "\5b";
-}
-.icon-handy-icon-like:before {
-  content: "\74";
-}
-.icon-handy-icon-live-chat:before {
-  content: "\75";
-}
-.icon-handy-icon-luxos:before {
-  content: "\76";
-}
-.icon-handy-icon-map:before {
-  content: "\77";
-}
-.icon-handy-icon-message:before {
-  content: "\78";
-}
-.icon-handy-icon-mobile:before {
-  content: "\79";
-}
-.icon-handy-icon-nfc:before {
-  content: "\7a";
-}
-.icon-handy-icon-pbx:before {
-  content: "\41";
-}
-.icon-handy-icon-phone:before {
-  content: "\42";
-}
-.icon-handy-icon-pos:before {
-  content: "\43";
-}
-.icon-handy-icon-remote:before {
-  content: "\44";
-}
-.icon-handy-icon-right-arrow:before {
-  content: "\3e";
-}
-.icon-handy-icon-right-bracket:before {
-  content: "\46";
-}
-.icon-handy-icon-service:before {
-  content: "\47";
-}
-.icon-handy-icon-signal:before {
-  content: "\48";
-}
-.icon-handy-icon-social-bh:before {
-  content: "\49";
-}
-.icon-handy-icon-social-bh-circle:before {
-  content: "\4a";
-}
-.icon-handy-icon-social-bh-circle-s:before {
-  content: "\4b";
-}
-.icon-handy-icon-social-dr:before {
-  content: "\4c";
-}
-.icon-handy-icon-social-dr-circle:before {
-  content: "\4d";
-}
-.icon-handy-icon-social-dr-circle-s:before {
-  content: "\4e";
-}
-.icon-handy-icon-social-fb:before {
-  content: "\4f";
-}
-.icon-handy-icon-social-fb-circle:before {
-  content: "\50";
-}
-.icon-handy-icon-social-fb-circle-s:before {
-  content: "\51";
-}
-.icon-handy-icon-social-gp:before {
-  content: "\52";
-}
-.icon-handy-icon-social-gp-circle:before {
-  content: "\53";
-}
-.icon-handy-icon-social-gp-circle-s:before {
-  content: "\54";
-}
-.icon-handy-icon-social-ig:before {
-  content: "\55";
-}
-.icon-handy-icon-social-ig-circle:before {
-  content: "\56";
-}
-.icon-handy-icon-social-ig-circle-s:before {
-  content: "\57";
-}
-.icon-handy-icon-social-in:before {
-  content: "\58";
-}
-.icon-handy-icon-social-in-circle:before {
-  content: "\59";
-}
-.icon-handy-icon-social-in-circle-s:before {
-  content: "\5a";
-}
-.icon-handy-icon-social-tw:before {
-  content: "\30";
-}
-.icon-handy-icon-social-tw-circle:before {
-  content: "\31";
-}
-.icon-handy-icon-social-tw-circle-s:before {
-  content: "\32";
-}
-.icon-handy-icon-social-vi:before {
-  content: "\33";
-}
-.icon-handy-icon-social-vi-circle:before {
-  content: "\34";
-}
-.icon-handy-icon-social-vi-circle-s:before {
-  content: "\35";
-}
-.icon-handy-icon-telescope:before {
-  content: "\36";
-}
-.icon-handy-icon-ticket:before {
-  content: "\37";
-}
-.icon-handy-icon-user:before {
-  content: "\39";
-}
-.icon-handy-icon-wifi:before {
-  content: "\60";
-}
-.icon-handy-icon-arrow-left-long:before {
-  content: "\23";
-}
-.icon-handy-icon-arrow-right-long:before {
-  content: "\24";
-}
-.icon-handy-icon-trip-advisor-rating:before {
-  content: "\25";
-}
-.icon-handy-icon-trip-advisor-rating-fill:before {
-  content: "\26";
-}
-.icon-handy-icont-wow:before {
-  content: "\27";
-}
-.icon-handy-icon-ambitious:before {
-  content: "\28";
-}
-.icon-handy-icon-innovative:before {
-  content: "\29";
-}
-.icon-handy-icon-passionate:before {
-  content: "\2a";
-}
-.icon-handy-icon-tripadvisor:before {
   content: "\61";
 }
-.icon-handy-icon-social-yt-circle-s:before {
+.icon-handy-icon-arrow-left-long:before {
+  content: "\63";
+}
+.icon-handy-icon-arrow-right-long:before {
+  content: "\64";
+}
+.icon-handy-icon-awareness:before {
+  content: "\65";
+}
+.icon-handy-icon-barchart:before {
+  content: "\66";
+}
+.icon-handy-icon-battery:before {
+  content: "\67";
+}
+.icon-handy-icon-bell:before {
+  content: "\69";
+}
+.icon-handy-icon-cart:before {
+  content: "\6a";
+}
+.icon-handy-icon-cloud:before {
+  content: "\6c";
+}
+.icon-handy-icon-dinning:before {
+  content: "\6d";
+}
+.icon-handy-icon-globe:before {
+  content: "\6f";
+}
+.icon-handy-icon-graph:before {
+  content: "\70";
+}
+.icon-handy-icon-heart:before {
+  content: "\71";
+}
+.icon-handy-icon-idea:before {
   content: "\72";
 }
-.icon-handy-icon-social-yt-circle:before {
+.icon-handy-icon-indicator:before {
   content: "\73";
 }
-.icon-handy-icon-social-yt:before {
-  content: "\45";
+.icon-handy-icon-info:before {
+  content: "\74";
 }
-.icon-handy-icon-social-ta-circle-s:before {
+.icon-handy-icon-innovative:before {
+  content: "\76";
+}
+.icon-handy-icon-left-arrow:before {
+  content: "\78";
+}
+.icon-handy-icon-left-bracket:before {
+  content: "\79";
+}
+.icon-handy-icon-like:before {
+  content: "\7a";
+}
+.icon-handy-icon-live-chat:before {
+  content: "\41";
+}
+.icon-handy-icon-luxos:before {
+  content: "\42";
+}
+.icon-handy-icon-map:before {
+  content: "\43";
+}
+.icon-handy-icon-network:before {
+  content: "\46";
+}
+.icon-handy-icon-passionate:before {
+  content: "\48";
+}
+.icon-handy-icon-pbx:before {
+  content: "\49";
+}
+.icon-handy-icon-phone:before {
+  content: "\4a";
+}
+.icon-handy-icon-pos:before {
+  content: "\4b";
+}
+.icon-handy-icon-remote:before {
+  content: "\4c";
+}
+.icon-handy-icon-right-arrow:before {
+  content: "\4d";
+}
+.icon-handy-icon-right-bracket:before {
+  content: "\4e";
+}
+.icon-handy-icon-service:before {
+  content: "\4f";
+}
+.icon-handy-icon-simcard:before {
+  content: "\50";
+}
+.icon-handy-icon-social-bh:before {
+  content: "\51";
+}
+.icon-handy-icon-social-bh-circle:before {
+  content: "\52";
+}
+.icon-handy-icon-social-bh-circle-s:before {
+  content: "\53";
+}
+.icon-handy-icon-social-dr:before {
+  content: "\54";
+}
+.icon-handy-icon-social-dr-circle:before {
+  content: "\55";
+}
+.icon-handy-icon-social-dr-circle-s:before {
+  content: "\56";
+}
+.icon-handy-icon-social-fb:before {
+  content: "\57";
+}
+.icon-handy-icon-social-fb-circle:before {
+  content: "\58";
+}
+.icon-handy-icon-social-fb-circle-s:before {
+  content: "\59";
+}
+.icon-handy-icon-social-gp:before {
+  content: "\5a";
+}
+.icon-handy-icon-social-gp-circle:before {
+  content: "\30";
+}
+.icon-handy-icon-social-gp-circle-s:before {
+  content: "\31";
+}
+.icon-handy-icon-social-ig:before {
+  content: "\32";
+}
+.icon-handy-icon-social-ig-circle:before {
+  content: "\33";
+}
+.icon-handy-icon-social-ig-circle-s:before {
+  content: "\34";
+}
+.icon-handy-icon-social-in:before {
+  content: "\35";
+}
+.icon-handy-icon-social-in-circle:before {
+  content: "\36";
+}
+.icon-handy-icon-social-in-circle-s:before {
+  content: "\37";
+}
+.icon-handy-icon-social-ta:before {
   content: "\38";
 }
 .icon-handy-icon-social-ta-circle:before {
+  content: "\39";
+}
+.icon-handy-icon-social-ta-circle-s:before {
+  content: "\21";
+}
+.icon-handy-icon-social-tw:before {
+  content: "\22";
+}
+.icon-handy-icon-social-tw-circle:before {
+  content: "\23";
+}
+.icon-handy-icon-social-tw-circle-s:before {
+  content: "\24";
+}
+.icon-handy-icon-social-vi:before {
+  content: "\25";
+}
+.icon-handy-icon-social-vi-circle:before {
+  content: "\26";
+}
+.icon-handy-icon-social-vi-circle-s:before {
+  content: "\27";
+}
+.icon-handy-icon-social-yt:before {
+  content: "\28";
+}
+.icon-handy-icon-social-yt-circle:before {
+  content: "\29";
+}
+.icon-handy-icon-social-yt-circle-s:before {
+  content: "\2a";
+}
+.icon-handy-icon-support:before {
   content: "\2b";
+}
+.icon-handy-icon-ticket:before {
+  content: "\2d";
+}
+.icon-handy-icon-trip-advisor-rating:before {
+  content: "\2e";
+}
+.icon-handy-icon-trip-advisor-rating-fill:before {
+  content: "\2f";
+}
+.icon-handy-icon-user:before {
+  content: "\3a";
+}
+.icon-handy-icon-wifi:before {
+  content: "\3b";
+}
+.icon-handy-icon-wow:before {
+  content: "\3c";
+}
+.icon-handy-icon-wow-1:before {
+  content: "\3d";
+}
+.icon-handy-icon-ambitious:before {
+  content: "\62";
+}
+.icon-handy-icon-bed:before {
+  content: "\68";
+}
+.icon-handy-icon-cityguide:before {
+  content: "\6b";
+}
+.icon-handy-icon-form:before {
+  content: "\6e";
+}
+.icon-handy-icon-infrared:before {
+  content: "\75";
+}
+.icon-handy-icon-invitation:before {
+  content: "\77";
+}
+.icon-handy-icon-message:before {
+  content: "\44";
+}
+.icon-handy-icon-mobile-1:before {
+  content: "\3e";
+}
+.icon-handy-icon-nfc:before {
+  content: "\45";
+}
+.icon-handy-icon-telescope:before {
+  content: "\47";
 }
