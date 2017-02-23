@@ -281,3 +281,24 @@
 .icon-handy-icon-telescope:before {
   content: "\47";
 }
+.icon-handy-icon-technical:before {
+  content: "\2c";
+}
+.icon-handy-icon-press:before {
+  content: "\3f";
+}
+.icon-handy-icon-partnership:before {
+  content: "\40";
+}
+.icon-handy-icon-hospitality:before {
+  content: "\5b";
+}
+.icon-handy-icon-inquiries:before {
+  content: "\5d";
+}
+.icon-handy-icon-career:before {
+  content: "\5e";
+}
+.icon-handy-icon-advertising:before {
+  content: "\5f";
+}
