@@ -302,3 +302,15 @@
 .icon-handy-icon-advertising:before {
   content: "\5f";
 }
+.icon-handy-icon-handychat-avatar:before {
+  content: "\60";
+}
+.icon-handy-icon-handychat-conversation:before {
+  content: "\7b";
+}
+.icon-handy-icon-handychat-history:before {
+  content: "\7c";
+}
+.icon-handy-icon-handychat-template:before {
+  content: "\7d";
+}
