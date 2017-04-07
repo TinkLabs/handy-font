@@ -323,3 +323,9 @@
 .icon-handyicon-search-btn:before {
   content: "\e000";
 }
+.icon-handyicon-minus:before {
+  content: "\e001";
+}
+.icon-handyicon-plus:before {
+  content: "\e002";
+}
