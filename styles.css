@@ -314,3 +314,12 @@
 .icon-handy-icon-handychat-template:before {
   content: "\7d";
 }
+.icon-handyicon-rating-heart-empty:before {
+  content: "\7e";
+}
+.icon-handyicon-rating-heart-fill:before {
+  content: "\5c";
+}
+.icon-handyicon-search-btn:before {
+  content: "\e000";
+}
