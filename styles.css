@@ -350,3 +350,18 @@
 .icon-handy-icon-social-ig:before {
   content: "\32";
 }
+.icon-handy-icon-create-own:before {
+  content: "\e00a";
+}
+.icon-handy-icon-guest-experience:before {
+  content: "\e00b";
+}
+.icon-handy-icon-loyalty:before {
+  content: "\e00c";
+}
+.icon-handy-icon-satisfaction:before {
+  content: "\e00d";
+}
+.icon-handy-icon-spending:before {
+  content: "\e00e";
+}
