@@ -344,9 +344,6 @@
 .icon-handy-icon-magic:before {
   content: "\e008";
 }
-.icon-handy-icon-close:before {
-  content: "\e009";
-}
 .icon-handy-icon-social-ig:before {
   content: "\32";
 }
@@ -370,4 +367,13 @@
 }
 .icon-handy-icon-alert-1:before {
   content: "\e010";
+}
+.icon-handy-icon-cross:before {
+  content: "\e009";
+}
+.icon-handy-icon-rocket:before {
+  content: "\e012";
+}
+.icon-handyicon-close:before {
+  content: "\e013";
 }
