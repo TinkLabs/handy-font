@@ -377,3 +377,9 @@
 .icon-handyicon-close:before {
   content: "\e013";
 }
+.icon-handy-icon-trip-advisor-half:before {
+  content: "\e011";
+}
+.icon-rocketicon:before {
+  content: "\e014";
+}
