@@ -383,3 +383,12 @@
 .icon-rocketicon:before {
   content: "\e014";
 }
+.icon-handy-icon-dashboard-dining:before {
+  content: "\e015";
+}
+.icon-handy-icon-dashboard-message:before {
+  content: "\e016";
+}
+.icon-handy-icon-dashboard-smile:before {
+  content: "\e017";
+}
