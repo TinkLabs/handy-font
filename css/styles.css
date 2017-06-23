@@ -356,3 +356,7 @@
 .icon-handy-icon-telescope:before {
     content: "\47";
 }
+
+.icon-handy-icon-tripadvisor-hotel:before {
+  content: "\e018";
+}
