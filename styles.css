@@ -395,3 +395,12 @@
 .icon-handy-icon-tripadvisor-hotel:before {
   content: "\e018";
 }
+.icon-handyicon-portal-guestexp:before {
+  content: "\e019";
+}
+.icon-handyicon-portal-info:before {
+  content: "\e01a";
+}
+.icon-handyicon-portal-performance:before {
+  content: "\e01b";
+}
