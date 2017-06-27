@@ -407,3 +407,9 @@
 .icon-handyicon-portal-exit:before {
   content: "\e01c";
 }
+.icon-handyicon-portal-minus:before {
+  content: "\e01d";
+}
+.icon-handyicon-down-arrow:before {
+  content: "\e01e";
+}
