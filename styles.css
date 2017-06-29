@@ -395,21 +395,27 @@
 .icon-handy-icon-tripadvisor-hotel:before {
   content: "\e018";
 }
-.icon-handyicon-portal-guestexp:before {
-  content: "\e019";
-}
 .icon-handyicon-portal-info:before {
   content: "\e01a";
-}
-.icon-handyicon-portal-performance:before {
-  content: "\e01b";
-}
-.icon-handyicon-portal-exit:before {
-  content: "\e01c";
 }
 .icon-handyicon-portal-minus:before {
   content: "\e01d";
 }
 .icon-handyicon-down-arrow:before {
   content: "\e01e";
+}
+.icon-handyicon-portal-exit:before {
+  content: "\e019";
+}
+.icon-handyicon-portal-mice:before {
+  content: "\e01b";
+}
+.icon-handyicon-performance:before {
+  content: "\e01c";
+}
+.icon-handyicon-portal-tool:before {
+  content: "\e01f";
+}
+.icon-handyicon-portal-guestexp:before {
+  content: "\e020";
 }
