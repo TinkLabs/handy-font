@@ -419,9 +419,12 @@
 .icon-handyicon-portal-guestexp:before {
   content: "\e020";
 }
-.icon-handyicon-portal-check:before {
-  content: "\e021";
-}
 .icon-handyicon-portal-pm-compose:before {
   content: "\e022";
+}
+.icon-handyicon-portal-fail:before {
+  content: "\e021";
+}
+.icon-handyicon-portal-check:before {
+  content: "\e023";
 }
