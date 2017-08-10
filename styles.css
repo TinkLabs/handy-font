@@ -53,9 +53,6 @@
 .icon-handy-icon-barchart:before {
   content: "\66";
 }
-.icon-handy-icon-battery:before {
-  content: "\67";
-}
 .icon-handy-icon-bell:before {
   content: "\69";
 }
@@ -251,9 +248,6 @@
 .icon-handy-icon-ambitious:before {
   content: "\62";
 }
-.icon-handy-icon-bed:before {
-  content: "\68";
-}
 .icon-handy-icon-cityguide:before {
   content: "\6b";
 }
@@ -430,4 +424,22 @@
 }
 .icon-handy-icon-arrow-down:before {
   content: "\e024";
+}
+.icon-handyicon-fonta-down:before {
+  content: "\e025";
+}
+.icon-handyicon-fonta-right:before {
+  content: "\e026";
+}
+.icon-handyicon-fonta-up:before {
+  content: "\e027";
+}
+.icon-handyicon-fonta-left:before {
+  content: "\e028";
+}
+.icon-handy-icon-bed:before {
+  content: "\68";
+}
+.icon-handy-icon-battery:before {
+  content: "\67";
 }
