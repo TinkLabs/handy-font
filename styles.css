@@ -443,3 +443,6 @@
 .icon-handy-icon-battery:before {
   content: "\67";
 }
+.icon-handyicon-find-share:before {
+  content: "\e029";
+}
