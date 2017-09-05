@@ -431,9 +431,6 @@
 .icon-handyicon-fonta-right:before {
   content: "\e026";
 }
-.icon-handyicon-fonta-up:before {
-  content: "\e027";
-}
 .icon-handyicon-fonta-left:before {
   content: "\e028";
 }
@@ -445,4 +442,22 @@
 }
 .icon-handyicon-find-share:before {
   content: "\e029";
+}
+.icon-up:before {
+  content: "\e027";
+}
+.icon-handy-icon-caution-exclamation:before {
+  content: "\e02a";
+}
+.icon-handy-icon-caution-question:before {
+  content: "\e02b";
+}
+.icon-handy-icon-cloud-upload:before {
+  content: "\e02c";
+}
+.icon-handy-icon-page-left:before {
+  content: "\e02d";
+}
+.icon-handy-icon-page-right:before {
+  content: "\e02e";
 }
