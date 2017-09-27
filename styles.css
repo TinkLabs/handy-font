@@ -410,9 +410,6 @@
 .icon-handyicon-portal-tool:before {
   content: "\e01f";
 }
-.icon-handyicon-portal-guestexp:before {
-  content: "\e020";
-}
 .icon-handyicon-portal-pm-compose:before {
   content: "\e022";
 }
@@ -463,4 +460,25 @@
 }
 .icon-handy-icon-burger-menu:before {
   content: "\e02f";
+}
+.icon-handyicon-portal-guestexp-1:before {
+  content: "\e030";
+}
+.icon-handy-icon-portal-home:before {
+  content: "\e031";
+}
+.icon-handy-icon-portal-shortcut-handychat:before {
+  content: "\e032";
+}
+.icon-handy-icon-portal-shortcut-handyicon:before {
+  content: "\e033";
+}
+.icon-handy-icon-portal-shortcut-ird:before {
+  content: "\e034";
+}
+.icon-handy-icon-portal-shortcut-pm:before {
+  content: "\e035";
+}
+.icon-handy-icon-portal-shortcut-subhome:before {
+  content: "\e036";
 }
