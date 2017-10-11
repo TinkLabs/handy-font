@@ -404,9 +404,6 @@
 .icon-handyicon-portal-mice:before {
   content: "\e01b";
 }
-.icon-handyicon-performance:before {
-  content: "\e01c";
-}
 .icon-handyicon-portal-tool:before {
   content: "\e01f";
 }
@@ -484,4 +481,10 @@
 }
 .icon-handy-icon-portal-shortcut-kpi:before {
   content: "\e020";
+}
+.icon-handy-icon-portal-checkbox:before {
+  content: "\e037";
+}
+.icon-handyicon-part2-portal-performance:before {
+  content: "\e01c";
 }
