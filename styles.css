@@ -38,7 +38,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-down:before {
+.icon-handyicon-fonta-down:before {
   content: "\6b";
 }
 .icon-handy-icon-alert:before {
@@ -80,25 +80,25 @@
 .icon-handy-icon-dinning:before {
   content: "\78";
 }
-.icon-handy-icon-font-advertising:before {
+.icon-handy-icon-advertising:before {
   content: "\79";
 }
-.icon-handy-icon-font-career:before {
+.icon-handy-icon-career:before {
   content: "\7a";
 }
-.icon-handy-icon-font-hospitality:before {
+.icon-handy-icon-hospitality:before {
   content: "\41";
 }
-.icon-handy-icon-font-inquiries:before {
+.icon-handy-icon-inquiries:before {
   content: "\42";
 }
-.icon-handy-icon-font-partnership:before {
+.icon-handy-icon-partnership:before {
   content: "\43";
 }
-.icon-handy-icon-font-press:before {
+.icon-handy-icon-press:before {
   content: "\44";
 }
-.icon-handy-icon-font-technical:before {
+.icon-handy-icon-technical:before {
   content: "\45";
 }
 .icon-handy-icon-form:before {
@@ -152,7 +152,7 @@
 .icon-handy-icon-message:before {
   content: "\56";
 }
-.icon-handy-icon-mobile:before {
+.icon-handy-icon-mobile-1:before {
   content: "\57";
 }
 .icon-handy-icon-network:before {
@@ -308,13 +308,13 @@
 .icon-handy-icon-wow-1:before {
   content: "\e005";
 }
-.icon-handyicon-add:before {
+.icon-handy-icon-add:before {
   content: "\e006";
 }
-.icon-handyicon-case:before {
+.icon-handy-icon-case:before {
   content: "\e007";
 }
-.icon-handyicon-clock:before {
+.icon-handy-icon-clock:before {
   content: "\e008";
 }
 .icon-handyicon-close:before {
@@ -323,55 +323,55 @@
 .icon-handyicon-down-arrow:before {
   content: "\e00a";
 }
-.icon-handyicon-handychat-avatar:before {
+.icon-handy-icon-handychat-avatar:before {
   content: "\e00b";
 }
-.icon-handyicon-handychat-conversation:before {
+.icon-handy-icon-handychat-conversation:before {
   content: "\e00c";
 }
-.icon-handyicon-handychat-history:before {
+.icon-handy-icon-handychat-history:before {
   content: "\e00d";
 }
-.icon-handyicon-hotel-11:before {
+.icon-handy-icon-tripadvisor-hotel:before {
   content: "\e00e";
 }
-.icon-handyicon-magic:before {
+.icon-handy-icon-magic:before {
   content: "\e00f";
 }
-.icon-handyicon-minus:before {
+.icon-handy-icon-minus:before {
   content: "\e010";
 }
-.icon-handyicon-1-10:before {
+.icon-handy-icon-rocket:before {
   content: "\e011";
 }
-.icon-handyicon-1-11:before {
+.icon-handy-icon-cross:before {
   content: "\e012";
 }
-.icon-handyicon-alert:before {
+.icon-handy-icon-alert-1:before {
   content: "\e013";
 }
-.icon-handyicon-burger-menu:before {
+.icon-handy-icon-burger-menu:before {
   content: "\e014";
 }
-.icon-handyicon-caution-exclamation:before {
+.icon-handy-icon-caution-exclamation:before {
   content: "\e015";
 }
-.icon-handyicon-caution-question:before {
+.icon-handy-icon-caution-question:before {
   content: "\e016";
 }
-.icon-handyicon-cloud-upload:before {
+.icon-handy-icon-cloud-upload:before {
   content: "\e017";
 }
-.icon-handyicon-create-own:before {
+.icon-handy-icon-create-own:before {
   content: "\e018";
 }
-.icon-handyicon-dashboard-dining:before {
+.icon-handy-icon-dashboard-dining:before {
   content: "\e019";
 }
-.icon-handyicon-dashboard-message:before {
+.icon-handy-icon-dashboard-message:before {
   content: "\e01a";
 }
-.icon-handyicon-dashboard-smile:before {
+.icon-handy-icon-dashboard-smile:before {
   content: "\e01b";
 }
 .icon-handyicon-find-share:before {
@@ -380,28 +380,28 @@
 .icon-handyicon-fonta-right:before {
   content: "\e01d";
 }
-.icon-handyicon-guest-experience:before {
+.icon-handy-icon-guest-experience:before {
   content: "\e01e";
 }
-.icon-handyicon-handyicon-arrow-down:before {
+.icon-handy-icon-arrow-down:before {
   content: "\e01f";
 }
-.icon-handyicon-handyicon-portal-fail:before {
+.icon-handyicon-portal-fail:before {
   content: "\e020";
 }
-.icon-handyicon-loyalty:before {
+.icon-handy-icon-loyalty:before {
   content: "\e021";
 }
-.icon-handyicon-page-left:before {
+.icon-handy-icon-page-left:before {
   content: "\e022";
 }
-.icon-handyicon-page-right:before {
+.icon-handy-icon-page-right:before {
   content: "\e023";
 }
-.icon-handyicon-portal-checkbox:before {
+.icon-handy-icon-portal-checkbox:before {
   content: "\e024";
 }
-.icon-handyicon-portal-checkbox-before:before {
+.icon-handy-icon-portal-checkbox-before:before {
   content: "\e025";
 }
 .icon-handyicon-portal-communications:before {
@@ -416,13 +416,13 @@
 .icon-handyicon-portal-guestservices:before {
   content: "\e029";
 }
-.icon-handyicon-portal-home:before {
+.icon-handy-icon-portal-home:before {
   content: "\e02a";
 }
 .icon-handyicon-portal-mice:before {
   content: "\e02b";
 }
-.icon-handyicon-portal-performance:before {
+.icon-handyicon-performance:before {
   content: "\e02c";
 }
 .icon-handyicon-portal-pm-compose:before {
@@ -431,7 +431,7 @@
 .icon-handy-icon-portal-shortcut-handychat:before {
   content: "\e02e";
 }
-.icon-handyicon-portal-shortcut-handyicon:before {
+.icon-handy-icon-portal-shortcut-handyicon:before {
   content: "\e02f";
 }
 .icon-handy-icon-portal-shortcut-ird:before {
@@ -449,16 +449,16 @@
 .icon-handyicon-portal-tool:before {
   content: "\e034";
 }
-.icon-handyicon-satisfaction:before {
+.icon-handy-icon-satisfaction:before {
   content: "\e035";
 }
-.icon-handyicon-spending:before {
+.icon-handy-icon-spending:before {
   content: "\e036";
 }
-.icon-handyicon-trip-advisor-rating-half:before {
+.icon-handy-icon-trip-advisor-half:before {
   content: "\e037";
 }
-.icon-handyicon-plus:before {
+.icon-handy-icon-plus:before {
   content: "\e038";
 }
 .icon-handyicon-portal-check:before {
@@ -470,31 +470,31 @@
 .icon-handyicon-portal-minus:before {
   content: "\e03b";
 }
-.icon-handyicon-rating-heart-empty:before {
+.icon-handy-icon-rating-heart-empty:before {
   content: "\e03c";
 }
-.icon-handyicon-rating-heart-fill:before {
+.icon-handy-icon-rating-heart-fill:before {
   content: "\e03d";
 }
-.icon-handyicon-search-btn:before {
+.icon-handy-icon-search-btn:before {
   content: "\e03e";
 }
-.icon-handyicon-suitcase:before {
+.icon-handy-icon-suitcase:before {
   content: "\e03f";
 }
-.icon-handyicon-suprise:before {
+.icon-handy-icon-suprise:before {
   content: "\e040";
 }
-.icon-left:before {
+.icon-handyicon-fonta-left:before {
   content: "\e041";
 }
 .icon-rocketicon:before {
   content: "\e042";
 }
-.icon-up:before {
+.icon-handyicon-fonta-up:before {
   content: "\e043";
 }
-.icon-handyicon-handychat-template:before {
+.icon-handy-icon-handychat-template:before {
   content: "\e044";
 }
 .icon-handyicon-handychat-attachment:before {
