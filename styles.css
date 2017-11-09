@@ -500,3 +500,9 @@
 .icon-handyicon-handychat-attachment:before {
   content: "\61";
 }
+.icon-handyicon-fonta-leftleft:before {
+  content: "\62";
+}
+.icon-handyicon-fonta-rightright:before {
+  content: "\63";
+}
