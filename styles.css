@@ -311,201 +311,249 @@
 .icon-handy-icon-add:before {
   content: "\e006";
 }
-.icon-handy-icon-case:before {
-  content: "\e007";
-}
-.icon-handy-icon-clock:before {
-  content: "\e008";
-}
-.icon-handyicon-close:before {
-  content: "\e009";
-}
-.icon-handyicon-down-arrow:before {
-  content: "\e01e";
-}
-.icon-handy-icon-handychat-avatar:before {
-  content: "\e00b";
-}
-.icon-handy-icon-handychat-conversation:before {
-  content: "\e00c";
-}
-.icon-handy-icon-handychat-history:before {
-  content: "\e00d";
-}
-.icon-handy-icon-tripadvisor-hotel:before {
-  content: "\e00e";
-}
-.icon-handy-icon-magic:before {
-  content: "\e00f";
-}
-.icon-handy-icon-minus:before {
-  content: "\e010";
-}
-.icon-handy-icon-rocket:before {
-  content: "\e011";
-}
-.icon-handy-icon-cross:before {
-  content: "\e012";
-}
-.icon-handy-icon-alert-1:before {
-  content: "\e013";
-}
-.icon-handy-icon-burger-menu:before {
-  content: "\e014";
-}
-.icon-handy-icon-caution-exclamation:before {
-  content: "\e015";
-}
-.icon-handy-icon-caution-question:before {
-  content: "\e016";
-}
-.icon-handy-icon-cloud-upload:before {
-  content: "\e017";
-}
-.icon-handy-icon-create-own:before {
-  content: "\e018";
-}
-.icon-handy-icon-dashboard-dining:before {
-  content: "\e019";
-}
-.icon-handy-icon-dashboard-message:before {
-  content: "\e01a";
-}
-.icon-handy-icon-dashboard-smile:before {
-  content: "\e01b";
-}
-.icon-handyicon-find-share:before {
-  content: "\e01c";
-}
-.icon-handyicon-fonta-right:before {
-  content: "\e01d";
-}
-.icon-handy-icon-guest-experience:before {
-  content: "\e80e";
-}
-.icon-handy-icon-arrow-down:before {
-  content: "\e01f";
-}
-.icon-handyicon-portal-fail:before {
-  content: "\e020";
-}
-.icon-handy-icon-loyalty:before {
-  content: "\e021";
-}
-.icon-handy-icon-page-left:before {
-  content: "\e022";
-}
-.icon-handy-icon-page-right:before {
-  content: "\e023";
-}
-.icon-handy-icon-portal-checkbox:before {
-  content: "\e024";
-}
-.icon-handy-icon-portal-checkbox-before:before {
-  content: "\e025";
-}
-.icon-handyicon-portal-communications:before {
-  content: "\e026";
-}
-.icon-handyicon-portal-exit:before {
-  content: "\e027";
-}
-.icon-handyicon-portal-guestexp:before {
-  content: "\e028";
-}
-.icon-handyicon-portal-guestservices:before {
-  content: "\e029";
-}
-.icon-handy-icon-portal-home:before {
-  content: "\e02a";
-}
-.icon-handyicon-portal-mice:before {
-  content: "\e02b";
-}
-.icon-handyicon-performance:before {
-  content: "\e02c";
-}
-.icon-handyicon-portal-pm-compose:before {
-  content: "\e02d";
-}
-.icon-handy-icon-portal-shortcut-handychat:before {
-  content: "\e02e";
-}
-.icon-handy-icon-portal-shortcut-handyicon:before {
-  content: "\e02f";
-}
-.icon-handy-icon-portal-shortcut-ird:before {
-  content: "\e030";
-}
-.icon-handy-icon-portal-shortcut-kpi:before {
-  content: "\e031";
-}
-.icon-handy-icon-portal-shortcut-pm:before {
-  content: "\e032";
-}
-.icon-handy-icon-portal-shortcut-subhome:before {
-  content: "\e033";
-}
-.icon-handyicon-portal-tool:before {
-  content: "\e034";
-}
-.icon-handy-icon-satisfaction:before {
-  content: "\e035";
-}
-.icon-handy-icon-spending:before {
-  content: "\e036";
-}
-.icon-handy-icon-trip-advisor-half:before {
-  content: "\e037";
-}
-.icon-handy-icon-plus:before {
-  content: "\7e";
-}
-.icon-handyicon-portal-check:before {
-  content: "\e039";
-}
-.icon-handyicon-portal-info:before {
-  content: "\e03a";
-}
-.icon-handyicon-portal-minus:before {
-  content: "\e03b";
-}
-.icon-handy-icon-rating-heart-empty:before {
-  content: "\e03c";
-}
-.icon-handy-icon-rating-heart-fill:before {
-  content: "\e03d";
-}
-.icon-handy-icon-search-btn:before {
-  content: "\e03e";
-}
-.icon-handy-icon-suitcase:before {
-  content: "\e03f";
-}
-.icon-handy-icon-suprise:before {
-  content: "\e040";
-}
-.icon-handyicon-fonta-left:before {
-  content: "\e041";
-}
-.icon-rocketicon:before {
-  content: "\e042";
-}
-.icon-handyicon-fonta-up:before {
-  content: "\e043";
-}
-.icon-handy-icon-handychat-template:before {
-  content: "\e044";
-}
-.icon-handyicon-handychat-attachment:before {
+.icon-handyicon-case:before {
   content: "\61";
 }
-.icon-handyicon-fonta-leftleft:before {
+.icon-handyicon-clock:before {
   content: "\62";
 }
-.icon-handyicon-fonta-rightright:before {
+.icon-handyicon-close:before {
   content: "\63";
 }
-.icon-handyicon-playbtn:before {
+.icon-handyicon-down-arrow:before {
   content: "\65";
+}
+.icon-handyicon-handychat-avatar:before {
+  content: "\66";
+}
+.icon-handyicon-handychat-conversation:before {
+  content: "\67";
+}
+.icon-handyicon-handychat-history:before {
+  content: "\68";
+}
+.icon-handyicon-handychat-template:before {
+  content: "\69";
+}
+.icon-handyicon-hotel-11:before {
+  content: "\6a";
+}
+.icon-handyicon-magic:before {
+  content: "\7e";
+}
+.icon-handyicon-minus:before {
+  content: "\e007";
+}
+.icon-handyicon-part2-1-10:before {
+  content: "\e008";
+}
+.icon-handyicon-part2-1-11:before {
+  content: "\e009";
+}
+.icon-handyicon-part2-alert:before {
+  content: "\e00a";
+}
+.icon-handyicon-part2-burger-menu:before {
+  content: "\e00b";
+}
+.icon-handyicon-part2-caution-exclamation:before {
+  content: "\e00c";
+}
+.icon-handyicon-part2-caution-question:before {
+  content: "\e00d";
+}
+.icon-handyicon-part2-cloud-upload:before {
+  content: "\e00e";
+}
+.icon-handyicon-part2-create-own:before {
+  content: "\e00f";
+}
+.icon-handyicon-part2-dashboard-dining:before {
+  content: "\e010";
+}
+.icon-handyicon-part2-dashboard-message:before {
+  content: "\e011";
+}
+.icon-handyicon-part2-dashboard-smile:before {
+  content: "\e012";
+}
+.icon-handyicon-part2-find-share:before {
+  content: "\e013";
+}
+.icon-handyicon-part2-fonta-leftleft:before {
+  content: "\e014";
+}
+.icon-handyicon-part2-fonta-right:before {
+  content: "\e015";
+}
+.icon-handyicon-part2-fonta-rightright:before {
+  content: "\e016";
+}
+.icon-handyicon-part2-guest-experience:before {
+  content: "\e017";
+}
+.icon-handyicon-part2-handychat-attachemnt:before {
+  content: "\e018";
+}
+.icon-handyicon-part2-handyicon-arrow-down:before {
+  content: "\e019";
+}
+.icon-handyicon-part2-handyicon-playbtn:before {
+  content: "\e01a";
+}
+.icon-handyicon-part2-handyicon-portal-fail:before {
+  content: "\e01b";
+}
+.icon-handyicon-part2-loyalty:before {
+  content: "\e01c";
+}
+.icon-handyicon-part2-page-left:before {
+  content: "\e01d";
+}
+.icon-handyicon-part2-page-right:before {
+  content: "\e01e";
+}
+.icon-handyicon-part2-portal-checkbox:before {
+  content: "\e01f";
+}
+.icon-handyicon-part2-portal-checkbox-before:before {
+  content: "\e020";
+}
+.icon-handyicon-part2-portal-communications:before {
+  content: "\e021";
+}
+.icon-handyicon-part2-portal-exit:before {
+  content: "\e022";
+}
+.icon-handyicon-part2-portal-guestexp:before {
+  content: "\e023";
+}
+.icon-handyicon-part2-portal-guestservices:before {
+  content: "\e024";
+}
+.icon-handyicon-part2-portal-home:before {
+  content: "\e025";
+}
+.icon-handyicon-part2-portal-mice:before {
+  content: "\e026";
+}
+.icon-handyicon-part2-portal-performance:before {
+  content: "\e027";
+}
+.icon-handyicon-part2-portal-pm-compose:before {
+  content: "\e028";
+}
+.icon-handyicon-part2-portal-shortcut-handychat:before {
+  content: "\e029";
+}
+.icon-handyicon-part2-portal-shortcut-handyicon:before {
+  content: "\e02a";
+}
+.icon-handyicon-part2-portal-shortcut-ird:before {
+  content: "\e02b";
+}
+.icon-handyicon-part2-portal-shortcut-kpi:before {
+  content: "\e02c";
+}
+.icon-handyicon-part2-portal-shortcut-pm:before {
+  content: "\e02d";
+}
+.icon-handyicon-part2-portal-shortcut-subhome:before {
+  content: "\e02e";
+}
+.icon-handyicon-part2-portal-tool:before {
+  content: "\e02f";
+}
+.icon-handyicon-part2-satisfaction:before {
+  content: "\e030";
+}
+.icon-handyicon-part2-spending:before {
+  content: "\e031";
+}
+.icon-handyicon-part2-trip-advisor-rating-half:before {
+  content: "\e032";
+}
+.icon-handyicon-plus:before {
+  content: "\e033";
+}
+.icon-handyicon-portal-check:before {
+  content: "\e034";
+}
+.icon-handyicon-portal-info:before {
+  content: "\e035";
+}
+.icon-handyicon-portal-minus:before {
+  content: "\e036";
+}
+.icon-handyicon-rating-heart-empty:before {
+  content: "\e037";
+}
+.icon-handyicon-rating-heart-fill:before {
+  content: "\e038";
+}
+.icon-handyicon-search-btn:before {
+  content: "\e039";
+}
+.icon-handyicon-suitcase:before {
+  content: "\e03a";
+}
+.icon-handyicon-suprise:before {
+  content: "\e03b";
+}
+.icon-left:before {
+  content: "\e03c";
+}
+.icon-rocketicon:before {
+  content: "\e03d";
+}
+.icon-up:before {
+  content: "\e03e";
+}
+.icon-handyicon-all-in-one-phone:before {
+  content: "\e03f";
+}
+.icon-handyicon-chat:before {
+  content: "\e040";
+}
+.icon-handyicon-concierge-chat:before {
+  content: "\e041";
+}
+.icon-handyicon-customer-service:before {
+  content: "\e042";
+}
+.icon-handyicon-d2:before {
+  content: "\e043";
+}
+.icon-handyicon-digital-concierge:before {
+  content: "\e044";
+}
+.icon-handyicon-express-checkout:before {
+  content: "\e045";
+}
+.icon-handyicon-handy-integration:before {
+  content: "\e046";
+}
+.icon-handyicon-music:before {
+  content: "\e047";
+}
+.icon-handyicon-keyless:before {
+  content: "\e048";
+}
+.icon-handyicon-hotel-portal:before {
+  content: "\e049";
+}
+.icon-handyicon-router:before {
+  content: "\e04a";
+}
+.icon-handyicon-speaker:before {
+  content: "\e04b";
+}
+.icon-handyicon-suite:before {
+  content: "\e04c";
+}
+.icon-handyicon-t2:before {
+  content: "\e04d";
+}
+.icon-handyicon-voice-control:before {
+  content: "\e04e";
 }
