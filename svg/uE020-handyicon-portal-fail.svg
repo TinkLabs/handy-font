@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.85;}
+	.st1{fill:#231F20;}
+	.st2{fill:none;stroke:#231F20;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#000F23;}
+	.st4{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#000F23;}
+	.st6{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{stroke:#000000;stroke-miterlimit:10;}
+	.st8{fill:#333333;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<path d="M32,0C14.3,0,0,14.3,0,32s14.3,32,32,32s32-14.3,32-32S49.7,0,32,0z M44.3,40.6l-3.7,3.7L32,35.7l-8.6,8.6l-3.7-3.7
+		l8.6-8.6l-8.6-8.6l3.7-3.7l8.6,8.6l8.6-8.6l3.7,3.7L35.7,32L44.3,40.6z"/>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="-2656" y="-1672" width="5760" height="3600"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+		</g>
+	</g>
+</g>
+</svg>

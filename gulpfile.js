@@ -5,7 +5,7 @@ var consolidate = require('gulp-consolidate');
 var runTimestamp = Math.round(Date.now()/1000);
 
  
-gulp.task('Iconfont', function(done){
+gulp.task('default', function(done){
   var iconStream = gulp.src(['svg/*.svg'])
     .pipe(iconfont({
 		fontName: 'handy',
