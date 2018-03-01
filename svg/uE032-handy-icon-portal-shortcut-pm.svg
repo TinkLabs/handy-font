@@ -1,39 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{opacity:0.85;}
-	.st1{fill:#231F20;}
-	.st2{fill:none;stroke:#231F20;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st3{fill:#000F23;}
-	.st4{clip-path:url(#SVGID_2_);enable-background:new    ;}
-	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#000F23;}
-	.st6{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st7{stroke:#000000;stroke-miterlimit:10;}
-	.st8{fill:#333333;}
-	.st9{fill-rule:evenodd;clip-rule:evenodd;}
-</style>
-<g id="Layer_1">
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.279px" height="841.891px" viewBox="0 0 595.279 841.891" enable-background="new 0 0 595.279 841.891"
+	 xml:space="preserve">
+<g id="Layer_1_1_">
 </g>
-<g id="Layer_2">
-	<g>
-		<g>
-			<defs>
-				<rect id="SVGID_1_" x="-2752" y="-1864" width="5760" height="3600"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-			</clipPath>
-		</g>
-	</g>
-	<g>
-		<path class="st1" d="M60.9,5.5H3.1C1.4,5.5,0,6.9,0,8.6v38c0,1,0.8,1.7,1.7,1.7H11l2.8,9c0.2,0.6,0.6,1,1.2,1.2
-			c0.1,0,0.3,0.1,0.4,0.1c0.5,0,0.9-0.2,1.2-0.5l9.7-9.7h34.5c1.7,0,3.1-1.4,3.1-3.1V8.6C64,6.9,62.6,5.5,60.9,5.5z M60.6,44.9H25.7
-			c-0.5,0-0.9,0.2-1.2,0.5l-8.2,8.2l-2.3-7.5c-0.2-0.7-0.9-1.2-1.6-1.2H3.4V8.9h57.1V44.9z"/>
-		<path class="st1" d="M10,19.6h44c0.6,0,1-0.5,1-1s-0.5-1-1-1H10c-0.6,0-1,0.5-1,1S9.4,19.6,10,19.6z"/>
-		<path class="st1" d="M10,28.6h44c0.6,0,1-0.5,1-1s-0.5-1-1-1H10c-0.6,0-1,0.5-1,1S9.4,28.6,10,28.6z"/>
-		<path class="st1" d="M10,37.2h22c0.6,0,1-0.5,1-1s-0.5-1-1-1H10c-0.6,0-1,0.5-1,1S9.4,37.2,10,37.2z"/>
-	</g>
+<g>
+	<path fill="#231F20" d="M566.447,174.462H28.834C13.022,174.462,0,187.483,0,203.296v353.447c0,9.302,7.44,15.812,15.812,15.812
+		h86.502l26.044,83.711c1.86,5.581,5.58,9.302,11.161,11.162c0.93,0,2.79,0.93,3.721,0.93c4.65,0,8.371-1.86,11.161-4.65
+		l90.223-90.223h320.893c15.812,0,28.834-13.021,28.834-28.834V203.296C595.28,187.483,582.258,174.462,566.447,174.462z
+		 M239.042,540.932c-4.65,0-8.371,1.86-11.161,4.65l-76.271,76.271l-21.393-69.76c-1.86-6.511-8.372-11.161-14.883-11.161H31.624
+		V206.086h531.102v334.846H239.042z"/>
+	<path fill="#231F20" d="M502.268,287.007H93.013c-5.581,0-9.302,4.651-9.302,9.301c0,4.651,3.721,9.301,9.302,9.301h409.255
+		c5.58,0,9.301-4.65,9.301-9.301C511.569,291.658,506.918,287.007,502.268,287.007z"/>
+	<path fill="#231F20" d="M502.268,370.718H93.013c-5.581,0-9.302,4.651-9.302,9.301s3.721,9.301,9.302,9.301h409.255
+		c5.58,0,9.301-4.651,9.301-9.301S506.918,370.718,502.268,370.718z"/>
+	<path fill="#231F20" d="M297.64,450.709H93.013c-5.581,0-9.302,4.65-9.302,9.302c0,4.65,3.721,9.301,9.302,9.301H297.64
+		c5.581,0,9.302-4.65,9.302-9.301C306.942,455.359,302.29,450.709,297.64,450.709z"/>
 </g>
 </svg>

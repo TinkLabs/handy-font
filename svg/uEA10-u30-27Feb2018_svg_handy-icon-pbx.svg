@@ -1,65 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#231F20;}
-	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}
-	.st2{fill:none;stroke:#000000;stroke-width:1.4;stroke-miterlimit:10;}
-	.st3{fill:none;stroke:#231F20;stroke-width:2.2;stroke-miterlimit:10;}
-	.st4{fill:none;stroke:#231F20;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
-	.st5{fill:none;stroke:#231F20;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st6{fill:none;stroke:#000000;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st7{fill:none;stroke:#231F20;stroke-width:2.2;stroke-linecap:round;stroke-miterlimit:10;}
-	.st8{fill:none;stroke:#000000;stroke-width:2.2;stroke-miterlimit:10;}
-	.st9{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st10{fill:none;stroke:#000000;stroke-width:1.8;stroke-linejoin:round;stroke-miterlimit:10;}
-	
-		.st11{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st12{fill:#221F1F;}
-	.st13{fill:none;stroke:#000000;stroke-width:1.8;stroke-miterlimit:10;}
-	.st14{fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st15{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st16{fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st17{fill:none;stroke:#000000;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st18{fill:none;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
-	.st19{fill:#0A1423;}
-	.st20{fill:#F4831F;}
-	.st21{fill:none;stroke:#000000;stroke-width:0.4736;stroke-miterlimit:10;}
-	.st22{fill:none;stroke:#000000;stroke-width:0.431;stroke-miterlimit:10;}
-	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.6314;stroke-miterlimit:10;}
-	.st24{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#231F20;stroke-width:0.4567;stroke-miterlimit:10;}
-	.st25{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#231F20;stroke-width:0.2284;stroke-miterlimit:10;}
-	.st26{fill:none;stroke:#000000;stroke-width:0.419;stroke-miterlimit:10;}
-	.st27{fill:none;stroke:#000000;stroke-width:0.3813;stroke-miterlimit:10;}
-	.st28{fill:#FFFFFF;stroke:#000000;stroke-width:0.419;stroke-miterlimit:10;}
-	.st29{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.5586;stroke-miterlimit:10;}
-	.st30{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st31{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#231F20;stroke-width:0.2682;stroke-miterlimit:10;}
-	.st32{fill-rule:evenodd;clip-rule:evenodd;}
-	.st33{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st34{fill:#FFFFFF;}
-	.st35{opacity:0.85;}
-</style>
-<g id="Layer_1">
-	<path class="st0" d="M32,64C14.4,64,0,49.6,0,32S14.4,0,32,0s32,14.4,32,32S49.6,64,32,64z M32,2.4C15.7,2.4,2.4,15.7,2.4,32
-		S15.7,61.6,32,61.6S61.6,48.3,61.6,32S48.3,2.4,32,2.4z"/>
-	<g>
-		<circle class="st8" cx="32" cy="16.6" r="3.7"/>
-		<circle class="st8" cx="32" cy="47.4" r="3.7"/>
-		<circle class="st8" cx="47.4" cy="32.5" r="3.7"/>
-		<circle class="st8" cx="16.6" cy="32.2" r="3.7"/>
-		<circle class="st8" cx="32" cy="32" r="5.1"/>
-		<line class="st8" x1="32" y1="20.3" x2="32" y2="26.9"/>
-		<line class="st8" x1="32" y1="37.1" x2="32" y2="43.7"/>
-		<line class="st8" x1="43.9" y1="32.2" x2="37.3" y2="32.2"/>
-		<line class="st8" x1="26.7" y1="32.2" x2="20.1" y2="32.2"/>
-		<line class="st8" x1="18.6" y1="29.2" x2="29.2" y2="19.1"/>
-		<line class="st8" x1="34.9" y1="45.3" x2="45.3" y2="35.5"/>
-		<line class="st8" x1="28.5" y1="46.1" x2="18.9" y2="35.4"/>
-		<line class="st8" x1="45.2" y1="29.7" x2="35.1" y2="19.2"/>
-	</g>
+<g>
+	<path d="M32,0C14.4,0,0,14.4,0,32s14.4,32,32,32s32-14.4,32-32S49.6,0,32,0z M32,61.6C15.7,61.6,2.4,48.3,2.4,32S15.7,2.4,32,2.4
+		S61.6,15.7,61.6,32S48.3,61.6,32,61.6z"/>
+	<path d="M47.4,27.7c-0.8,0-1.5,0.2-2.1,0.5l-9.1-9.4c0.3-0.7,0.6-1.4,0.6-2.2c0-2.6-2.2-4.8-4.8-4.8c-2.6,0-4.8,2.2-4.8,4.8
+		c0,0.8,0.2,1.6,0.6,2.3l-9.3,8.9c-0.6-0.2-1.2-0.4-1.9-0.4c-2.6,0-4.8,2.2-4.8,4.8c0,2.6,2.2,4.8,4.8,4.8c0.7,0,1.3-0.1,1.9-0.4
+		l8.8,9.8c-0.1,0.3-0.1,0.6-0.1,1c0,2.6,2.2,4.8,4.8,4.8c2.6,0,4.8-2.2,4.8-4.8c0-0.7-0.2-1.4-0.4-2l9.1-8.6c0.6,0.3,1.3,0.4,2,0.4
+		c2.6,0,4.8-2.2,4.8-4.8C52.2,29.9,50,27.7,47.4,27.7z M33.1,42.7v-4.6c2.5-0.4,4.4-2.4,5-4.8h4.6c0.1,0.8,0.5,1.6,1,2.2L35,43.7
+		C34.5,43.2,33.8,42.9,33.1,42.7z M25.9,31.1h-4.6c-0.2-0.7-0.5-1.4-1-2l9-8.6c0.5,0.3,1,0.6,1.6,0.7v4.6
+		C28.3,26.4,26.3,28.5,25.9,31.1z M34.8,20.5l8.8,9.1c-0.3,0.4-0.6,0.9-0.8,1.5h-4.7c-0.4-2.6-2.4-4.7-5-5.2v-4.6
+		C33.7,21.1,34.3,20.8,34.8,20.5z M32,28c2.2,0,4,1.8,4,4c0,2.2-1.8,4-4,4c-2.2,0-4-1.8-4-4C28,29.8,29.8,28,32,28z M32,14
+		c1.4,0,2.6,1.2,2.6,2.6s-1.2,2.6-2.6,2.6s-2.6-1.2-2.6-2.6S30.6,14,32,14z M14,32.2c0-1.4,1.2-2.6,2.6-2.6s2.6,1.2,2.6,2.6
+		s-1.2,2.6-2.6,2.6S14,33.6,14,32.2z M20.3,35.3c0.5-0.6,0.8-1.2,1-2h4.7c0.5,2.4,2.5,4.4,5,4.8v4.6c-1,0.2-1.9,0.8-2.5,1.6
+		L20.3,35.3z M32,50c-1.4,0-2.6-1.2-2.6-2.6s1.2-2.6,2.6-2.6s2.6,1.2,2.6,2.6S33.4,50,32,50z M47.4,35.1c-1.4,0-2.6-1.2-2.6-2.6
+		s1.2-2.6,2.6-2.6s2.6,1.2,2.6,2.6S48.8,35.1,47.4,35.1z"/>
 </g>
-<g id="Layer_2">
+<g id="Layer_2_1_">
 </g>
 </svg>
