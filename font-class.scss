@@ -44,7 +44,7 @@
 .icon-handy-icon-social-in-circle:before { 
 	content: "\2F" 
 }
-.icon-27Feb2018_svg_handy-icon-pbx:before { 
+.icon-handy-icon-pbx:before { 
 	content: "\30" 
 }
 .icon-handy-icon-phone:before { 
@@ -56,10 +56,10 @@
 .icon-handy-icon-remote:before { 
 	content: "\33" 
 }
-.icon-handy-icon-right-arrow:before { 
+.icon-handy-icon-bracket-left:before { 
 	content: "\34" 
 }
-.icon-handy-icon-right-bracket:before { 
+.icon-handy-icon-bracket-right:before { 
 	content: "\35" 
 }
 .icon-handy-icon-service:before { 
@@ -140,12 +140,6 @@
 .icon-handy-icon-invitation:before { 
 	content: "\4F" 
 }
-.icon-handy-icon-left-arrow:before { 
-	content: "\50" 
-}
-.icon-handy-icon-left-bracket:before { 
-	content: "\51" 
-}
 .icon-handy-icon-like:before { 
 	content: "\52" 
 }
@@ -188,20 +182,20 @@
 .icon-handy-icon-social-yt-circle:before { 
 	content: "\60" 
 }
-.icon-handyicon-handychat-attachment:before { 
+.icon-handy-icon-handychat-attachment:before { 
 	content: "\61" 
 }
-.icon-handyicon-fonta-leftleft:before { 
+.icon-handy-icon-arrow-leftleft:before { 
 	content: "\62" 
 }
-.icon-handyicon-fonta-rightright:before { 
+.icon-handy-icon-rightright:before { 
 	content: "\63" 
 }
-.icon-handy-icon-ticket:before { 
+.icon-handy-icon-arrow-downdown:before { 
 	content: "\64" 
 }
-.icon-handyicon-fonta-down:before { 
-	content: "\6B" 
+.icon-handy-icon-ticket:before { 
+	content: "\65" 
 }
 .icon-handy-icon-alert:before { 
 	content: "\6C" 
@@ -260,10 +254,10 @@
 .icon-handy-icon-plus:before { 
 	content: "\7E" 
 }
-.icon-handy-icon-trip-advisor-rating:before { 
+.icon-handy-icon-tripadvisor-rating:before { 
 	content: "\E000" 
 }
-.icon-handy-icon-trip-advisor-rating-fill:before { 
+.icon-handy-icon-tripadvisor-rating-fill:before { 
 	content: "\E001" 
 }
 .icon-handy-icon-user:before { 
@@ -271,9 +265,6 @@
 }
 .icon-handy-icon-wifi:before { 
 	content: "\E003" 
-}
-.icon-handy-icon-wow:before { 
-	content: "\E004" 
 }
 .icon-handy-icon-wow-1:before { 
 	content: "\E005" 
@@ -314,19 +305,13 @@
 .icon-handy-icon-create-own:before { 
 	content: "\E018" 
 }
-.icon-handyicon-find-share:before { 
+.icon-handy-icon-find-share:before { 
 	content: "\E01C" 
 }
-.icon-handyicon-fonta-right:before { 
-	content: "\E01D" 
-}
-.icon-handyicon-down-arrow:before { 
+.icon-handy-icon-handychat-template:before { 
 	content: "\E01E" 
 }
-.icon-handy-icon-arrow-down:before { 
-	content: "\E01F" 
-}
-.icon-handyicon-portal-fail:before { 
+.icon-handy-icon-portal-fail:before { 
 	content: "\E020" 
 }
 .icon-handy-icon-loyalty:before { 
@@ -344,22 +329,22 @@
 .icon-handy-icon-portal-checkbox-before:before { 
 	content: "\E025" 
 }
-.icon-handyicon-portal-exit:before { 
+.icon-handy-icon-portal-exit:before { 
 	content: "\E027" 
 }
-.icon-handyicon-portal-guestexp:before { 
+.icon-handy-icon-portal-guestexp:before { 
 	content: "\E028" 
 }
-.icon-handyicon-portal-guestservices:before { 
+.icon-handy-icon-portal-guestservices:before { 
 	content: "\E029" 
 }
 .icon-handy-icon-portal-home:before { 
 	content: "\E02A" 
 }
-.icon-handyicon-portal-mice:before { 
+.icon-handy-icon-portal-mice:before { 
 	content: "\E02B" 
 }
-.icon-handyicon-performance:before { 
+.icon-handy-icon-performance:before { 
 	content: "\E02C" 
 }
 .icon-handy-icon-portal-shortcut-handychat:before { 
@@ -380,7 +365,7 @@
 .icon-handy-icon-portal-shortcut-subhome:before { 
 	content: "\E033" 
 }
-.icon-handyicon-portal-tool:before { 
+.icon-handy-icon-portal-tool:before { 
 	content: "\E034" 
 }
 .icon-handy-icon-satisfaction:before { 
@@ -392,13 +377,13 @@
 .icon-handy-icon-trip-advisor-half:before { 
 	content: "\E037" 
 }
-.icon-handyicon-portal-check:before { 
+.icon-handy-icon-portal-check:before { 
 	content: "\E039" 
 }
-.icon-handyicon-portal-info:before { 
+.icon-handy-icon-portal-info:before { 
 	content: "\E03A" 
 }
-.icon-handyicon-portal-minus:before { 
+.icon-handy-icon-portal-minus:before { 
 	content: "\E03B" 
 }
 .icon-handy-icon-rating-heart-empty:before { 
@@ -416,13 +401,16 @@
 .icon-handy-icon-suprise:before { 
 	content: "\E040" 
 }
-.icon-handyicon-fonta-left:before { 
+.icon-handy-icon-arrow-left:before { 
 	content: "\E041" 
 }
-.icon-handyicon-fonta-up:before { 
+.icon-handy-icon-arrow-right:before { 
+	content: "\E042" 
+}
+.icon-handy-icon-arrow-up:before { 
 	content: "\E043" 
 }
-.icon-handy-icon-handychat-template:before { 
+.icon-handy-icon-arrow-down:before { 
 	content: "\E044" 
 }
 .icon-handy-icon-guest-experience:before { 
@@ -434,17 +422,11 @@
 .icon-handy-icon-code:before { 
 	content: "\EA59" 
 }
-.icon-svg-91:before { 
-	content: "\EA5A" 
-}
 .icon-handy-icon-chip:before { 
 	content: "\EA5B" 
 }
 .icon-handy-icon-doorlock:before { 
 	content: "\EA5C" 
-}
-.icon-handy-icon-livechat:before { 
-	content: "\EA5D" 
 }
 .icon-handy-icon-all-in-one-phone:before { 
 	content: "\EA5E" 
@@ -494,7 +476,7 @@
 .icon-handy-icon-voice-control:before { 
 	content: "\EA6D" 
 }
-.icon-handyicon-playbtn:before { 
+.icon-handy-icon-playbtn:before { 
 	content: "\EA6E" 
 }
 .icon-handy-icon-hotel:before { 
