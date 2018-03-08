@@ -564,3 +564,27 @@
 .icon-handy-icon-portal-order:before { 
 	content: "\EA77" 
 }
+.icon-handy-icon-portal-admin:before { 
+	content: "\EA01" 
+}
+.icon-handy-icon-portal-content:before { 
+	content: "\EA02" 
+}
+.icon-handy-icon-portal-fcs:before { 
+	content: "\EA05" 
+}
+.icon-handy-icon-portal-dining:before { 
+	content: "\EA04" 
+}
+.icon-handy-icon-portal-devices:before { 
+	content: "\EA03" 
+}
+.icon-handy-icon-portal-housekeeping:before { 
+	content: "\EA06" 
+}
+.icon-handy-icon-portal-ota:before { 
+	content: "\EA07" 
+}
+.icon-handy-icon-portal-zone:before { 
+	content: "\EA08" 
+}
