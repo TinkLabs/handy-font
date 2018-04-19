@@ -10,7 +10,8 @@ gulp.task('default', function(done){
     .pipe(iconfont({
 		fontName: 'handy',
 		normalize: true,
-		fontHeight: 1001,
+		fontHeight: 2000,
+        centerHorizontally: true,
 		prependUnicode: true, // recommended option
 		formats: ['ttf', 'eot', 'woff',  'woff2', 'svg'], // default, 'woff2' and 'svg' are available
 		
