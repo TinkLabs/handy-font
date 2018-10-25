@@ -510,6 +510,9 @@
 .icon-handy-icon-edit:before { 
 	content: "\EA0D" 
 }
+.icon-handy-icon-housekeeping:before { 
+	content: "\EA0E" 
+}
 .icon-handy-icon-sent:before { 
 	content: "\EA58" 
 }
@@ -606,6 +609,6 @@
 .icon-handy-icon-portal-order:before { 
 	content: "\EA77" 
 }
-.icon-handy-icon-housekeeping:before { 
-	content: "\EA0E" 
+.icon-handy-icon-download:before { 
+	content: "\EA0F" 
 }
