@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-    <g fill="none" fill-rule="evenodd">
-        <path fill="#8C8F93" fill-rule="nonzero" d="M12.882 6.235H10.06V2H5.824v4.235H3l4.941 4.941 4.941-4.94zM3 12.588V14h9.882v-1.412H3z"/>
-        <path d="M0 0h16v16H0z"/>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D0FF00;}
+</style>
+<path class="st0" d="M51.5,24.9H40.2V8H23.3v16.9H12l19.8,19.8L51.5,24.9L51.5,24.9z M12,50.4V56h39.5v-5.6H12z"/>
 </svg>
