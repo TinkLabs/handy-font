@@ -17,7 +17,7 @@
 		<% _.each(glyphs, function(glyph) { %>
 			<li>
 			  <div class="<%= className %> <%= className %>-<%= glyph.name %>"></div>
-			  <input type="text" readonly="readonly" value="<%= glyph.name %>">
+			  <input type="text" readonly="readonly" value="icon icon-<%= glyph.name %>">
 			</li>
 		<% }); %>
       </ul>
