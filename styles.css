@@ -22,6 +22,8 @@
   text-transform: none !important;
   speak: none;
   line-height: 1;
+  display: inline-block;
+  vertical-align: middle;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -35,6 +37,8 @@
   text-transform: none !important;
   speak: none;
   line-height: 1;
+  display: inline-block;
+  vertical-align: middle;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -638,4 +642,19 @@
 }
 .icon-handy-icon-portal-order:before { 
 	content: "\EA77" 
+}
+.icon-handy-icon-direction:before { 
+	content: "\EA78" 
+}
+.icon-handy-icon-exit-fullscreen:before { 
+	content: "\EA79" 
+}
+.icon-handy-icon-inhotel:before { 
+	content: "\EA7A" 
+}
+.icon-handy-icon-location:before { 
+	content: "\EA7B" 
+}
+.icon-hotel-icon-gps-arrow:before { 
+	content: "\EA7C" 
 }
